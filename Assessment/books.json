@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "book_title": "Python Programming",
+        "author_name": "John Zelle",
+        "Genre": "Technical",
+        "price": 650,
+        "copies": 15
+    },
+    {
+        "id": 2,
+        "book_title": "Clean Code",
+        "author_name": "Robert Martin",
+        "Genre": "Technical",
+        "price": 950,
+        "copies": 8
+    },
+    {
+        "id": 3,
+        "book_title": "The Great Gatsby",
+        "author_name": "F. Scott Fitzgerald",
+        "Genre": "Fiction",
+        "price": 350,
+        "copies": 20
+    },
+    {
+        "id": 4,
+        "book_title": "Sapiens",
+        "author_name": "Yuval Noah Harari",
+        "Genre": "History",
+        "price": 550,
+        "copies": 12
+    },
+    {
+        "id": 5,
+        "book_title": "Cosmos",
+        "author_name": "Carl Sagan",
+        "Genre": "Science",
+        "price": 480,
+        "copies": 6
+    }
+]

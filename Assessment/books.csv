@@ -1,0 +1,6 @@
+id,book_title,author_name,Genre,price,copies
+1,Python Programming,John Zelle,Technical,650,15
+2,Clean Code,Robert Martin,Technical,950,8
+3,The Great Gatsby,F. Scott Fitzgerald,Fiction,350,20
+4,Sapiens,Yuval Noah Harari,History,550,12
+5,Cosmos,Carl Sagan,Science,480,6
